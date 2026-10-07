@@ -1,5 +1,25 @@
 # Procurement Command Center
 
+A procurement analytics portfolio project focused on supplier evaluation, inventory planning, sourcing decisions, and market intelligence reporting.
+
+---
+
+## Sample Reports
+
+### Supplier Scorecard
+
+screenshots/supplier_scorecard.png
+
+### Inventory Planning
+
+screenshots/inventory_planning.png
+
+### Market Intelligence
+
+screenshots/market_intelligence.png
+
+---
+
 ## Overview
 
 Procurement Command Center is a procurement analytics project designed to simulate real-world sourcing, supplier evaluation, inventory planning, and market intelligence activities commonly performed by procurement and supply chain professionals.
@@ -115,21 +135,50 @@ Identifies market trends and external factors that may influence future supplier
 
 This project demonstrates how procurement organizations can leverage analytics to support supplier selection, inventory planning, sourcing decisions, and supply chain risk management.
 
+Key capabilities demonstrated include:
+
+- Supplier performance evaluation
+- Procurement spend analysis
+- Inventory optimization
+- Supply risk identification
+- Procurement decision support
+- Market trend analysis
+- Strategic sourcing concepts
+
 ---
 
-## Sample Reports
+## Repository Contents
 
-### Supplier Scorecard
+```text
+procurement-command-center
 
-screenshots/supplier_scorecard.png
+README.md
 
-### Inventory Planning
+procurement_command_center.py
 
-screenshots/inventory_planning.png
+supplier_scorecard_rev2.py
 
-### Market Intelligence
+inventory_planning_tool.py
 
-screenshots/market_intelligence.png
+market_data.py
+
+supplier_scorecard.csv
+
+inventory_advanced.csv
+
+market_data.csv
+
+reports/
+├── index.html
+├── supplier_scorecard_report.html
+├── inventory_planning_report.html
+└── market_intelligence_report.html
+
+screenshots/
+├── supplier_scorecard.png
+├── inventory_planning.png
+└── market_intelligence.png
+```
 
 ---
 
