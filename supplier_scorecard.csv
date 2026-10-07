@@ -1,0 +1,5 @@
+Supplier,UnitCost,LeadTimeDays,ReliabilityScore,QualityScore,OnTimeDelivery,AnnualVolume
+SupplierA,1.20,30,94,92,90,100000
+SupplierB,1.35,14,98,95,97,100000
+SupplierC,1.15,45,88,89,85,100000
+SupplierD,1.28,21,96,93,94,100000

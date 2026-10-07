@@ -1,0 +1,5 @@
+Material,OnHandQty,DailyUsage,LeadTimeDays,SafetyStock,AnnualDemand,OrderCost,HoldingCost
+ResinA,5000,120,20,1000,43800,75,0.25
+TubingB,1200,90,15,500,32850,75,0.35
+PackagingC,8000,50,30,1000,18250,75,0.15
+FilterD,700,40,25,300,14600,75,0.40
