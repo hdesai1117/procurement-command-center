@@ -1,27 +1,76 @@
-procurement-command-center/
+# Procurement Command Center
 
-README.md
+## Overview
 
-procurement_command_center.py
+Procurement Command Center is a Python-based procurement analytics project designed to demonstrate sourcing, supplier evaluation, inventory planning, and market intelligence concepts commonly used within procurement and supply chain organizations.
 
-supplier_scorecard_rev2.py
+## Features
 
-inventory_planning_tool.py
+### Supplier Scorecard
 
-market_data.py
+Evaluates suppliers using:
 
-supplier_scorecard.csv
+- Cost
+- Lead Time
+- Reliability
+- Quality
+- On-Time Delivery
 
-inventory_advanced.csv
+Provides:
 
-market_data.csv
+- Supplier Rankings
+- Spend Analysis
+- Supplier Tiering
+- Cost vs Risk Evaluation
 
-reports/
+### Inventory Planning
 
-    index.html
+Calculates:
 
-    supplier_scorecard_report.html
+- Days of Supply
+- Reorder Point (ROP)
+- Economic Order Quantity (EOQ)
 
-    inventory_planning_report.html
+Provides:
 
-    market_intelligence_report.html
+- Inventory Health Assessment
+- Replenishment Guidance
+- Stockout Risk Identification
+
+### Market Intelligence
+
+Tracks:
+
+- Transportation Costs
+- Commodity Trends
+- Freight Markets
+
+Provides:
+
+- Procurement Risk Indicators
+- Strategic Sourcing Insights
+- Cost Trend Analysis
+
+## Technologies
+
+- Python
+- Pandas
+- HTML Reporting
+
+## Procurement Concepts Demonstrated
+
+- Strategic Sourcing
+- Supplier Evaluation
+- Spend Analysis
+- Risk Assessment
+- Inventory Optimization
+- EOQ Methodology
+- Reorder Point Planning
+- Market Intelligence
+
+## Author
+
+Hemal Desai
+
+GitHub:
+https://github.com/hdesai1117
