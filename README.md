@@ -2,54 +2,75 @@
 
 ## Overview
 
-Procurement Command Center is a Python-based procurement analytics project designed to demonstrate sourcing, supplier evaluation, inventory planning, and market intelligence concepts commonly used within procurement and supply chain organizations.
+Procurement Command Center is a procurement analytics project designed to simulate real-world sourcing, supplier evaluation, inventory planning, and market intelligence activities commonly performed by procurement and supply chain professionals.
 
-## Features
+The objective of this project is to demonstrate data-driven procurement decision making through supplier performance analysis, inventory optimization, spend analysis, and market trend monitoring.
 
-### Supplier Scorecard
+---
 
-Evaluates suppliers using:
+## Business Challenges Addressed
 
-- Cost
+### Supplier Selection
+
+How do procurement teams determine whether a higher-cost supplier provides enough value to justify the additional spend?
+
+This module evaluates suppliers using:
+
+- Unit Cost
 - Lead Time
 - Reliability
 - Quality
 - On-Time Delivery
 
-Provides:
+Outputs include:
 
 - Supplier Rankings
-- Spend Analysis
-- Supplier Tiering
-- Cost vs Risk Evaluation
+- Supplier Tier Classification
+- Annual Spend Analysis
+- Cost vs Risk Tradeoff Assessment
+- Supplier Recommendations
+
+---
 
 ### Inventory Planning
 
-Calculates:
+How do buyers determine when inventory should be replenished?
+
+This module calculates:
 
 - Days of Supply
 - Reorder Point (ROP)
 - Economic Order Quantity (EOQ)
+- Safety Stock Requirements
 
-Provides:
+Outputs include:
 
-- Inventory Health Assessment
-- Replenishment Guidance
+- Inventory Health Status
+- Purchasing Recommendations
+- Replenishment Quantities
 - Stockout Risk Identification
+
+---
 
 ### Market Intelligence
 
-Tracks:
+How do procurement teams evaluate future sourcing risks?
+
+This module monitors:
 
 - Transportation Costs
-- Commodity Trends
-- Freight Markets
+- Freight Trends
+- Commodity Markets
+- Supplier Cost Drivers
 
-Provides:
+Outputs include:
 
 - Procurement Risk Indicators
-- Strategic Sourcing Insights
 - Cost Trend Analysis
+- Strategic Sourcing Considerations
+- Market Intelligence Reporting
+
+---
 
 ## Technologies
 
@@ -57,16 +78,44 @@ Provides:
 - Pandas
 - HTML Reporting
 
+---
+
 ## Procurement Concepts Demonstrated
 
 - Strategic Sourcing
 - Supplier Evaluation
+- Supplier Performance Management
 - Spend Analysis
-- Risk Assessment
+- Supply Risk Assessment
 - Inventory Optimization
-- EOQ Methodology
+- Economic Order Quantity (EOQ)
 - Reorder Point Planning
-- Market Intelligence
+- Safety Stock Concepts
+- Procurement Market Intelligence
+
+---
+
+## Project Outputs
+
+### Supplier Scorecard Report
+
+Provides visibility into supplier performance, spend, quality, reliability, and sourcing risk.
+
+### Inventory Planning Report
+
+Supports replenishment planning using EOQ, reorder point analysis, and inventory health monitoring.
+
+### Market Intelligence Report
+
+Identifies market trends and external factors that may influence future supplier pricing and procurement strategy.
+
+---
+
+## Business Value
+
+This project demonstrates how procurement organizations can leverage analytics to support supplier selection, inventory planning, sourcing decisions, and supply chain risk management.
+
+---
 
 ## Author
 
