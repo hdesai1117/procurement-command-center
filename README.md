@@ -1,2 +1,2 @@
 # procurement-command-center
-project for Buyer role 
+Procurement Analytics Portfolio featuring supplier evaluation, inventory planning, EOQ analysis, supplier scorecards, and market intelligence reporting.
