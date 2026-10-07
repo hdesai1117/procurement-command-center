@@ -117,6 +117,22 @@ This project demonstrates how procurement organizations can leverage analytics t
 
 ---
 
+## Sample Reports
+
+### Supplier Scorecard
+
+screenshots/supplier_scorecard.png
+
+### Inventory Planning
+
+screenshots/inventory_planning.png
+
+### Market Intelligence
+
+screenshots/market_intelligence.png
+
+---
+
 ## Author
 
 Hemal Desai
