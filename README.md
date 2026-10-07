@@ -121,7 +121,7 @@ This project demonstrates how procurement organizations can leverage analytics t
 
 ### Supplier Scorecard
 
-screenshots/supplier_scorecard.png
+![Suppliers/supplier_scorecard.png
 
 ### Inventory Planning
 
